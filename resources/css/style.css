@@ -1,3 +1,46 @@
-* {
-    
+html {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 400;
+    color: gray;
+    background-color: black;
+}
+
+#page-content {
+    margin: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    margin: 40px 0;
+}
+
+a {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    margin: 35px 0;
+}
+
+img {
+    margin: 25px auto;
+    display: block;
+}
+
+footer {
+    margin: 25px 0;
+    text-align: right;
+    color: gray;
 }
